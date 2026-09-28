@@ -41,6 +41,7 @@ Source and governors: [[Reviews - Facebook Comments (Book)]] (15 comments, ≈ O
 - [R11] *„…ösztökélnem kell magam, hogy csináljam… fontos a rendszeresség"* (…I have to push myself to do it… regularity matters). Practice friction; drop the "fájdalom" (pain) clause.
 - [R02] *„A legjobb magyar könyv amit valaha olvastam a témában"* (the best Hungarian book I've ever read on the subject)
 - [R15, this clause only] *„Ritkán jól összeszedetten és példákkal alátámasztott ígéretes könyv!"* (a rarely well-organised, promising book, backed by examples!)
+- [R15, first sentence, trimmed per [[Compliance and Claims Watchlist]] §3c] *„Az nyílvávaló hogy mindenkin nem fog működni a dolog mivel mindannyian külömbözőek vagyunk…"* (obviously it won't work for everyone, since we're all different…). The corpus's only real no-guarantee line; cleared and consented 2026-09-28. Never with the medication sentence.
 
 Never usable in ads: R14 (life-saving), the rest of R15 (medication comparison), and R11's pain line. See the governors table.
 

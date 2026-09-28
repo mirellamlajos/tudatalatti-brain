@@ -7,6 +7,7 @@ corpus_size: 15 unique comments (2 duplicate screenshots removed)
 coverage: partial — one surface (Facebook), unknown post(s), selection made by the user (likely positive-skewed); directional, not representative
 privacy: commenters recorded by initials only; full names are in the original screenshots (needed only for consent requests)
 imported: 2026-09-24
+consent: R06, R10 cleared for paid media 2026-09-28; R15 cleared 2026-09-28 for its first sentence and "well-organised book" clause only (Consent log below; permanent record in Knowledge/Tribal Knowledge.md)
 ---
 
 # Reviews — Facebook Comments (Book)
@@ -69,14 +70,26 @@ The founder answers most comments within days, warmly and briefly, with a signat
 
 | ID | Claims | Voice | Why |
 |---|---|---|---|
-| R01, R02, R03, R04, R06, R09, R10, R12, R13 | Clear | In-voice | Experience and reading language; no health claim |
+| R01, R02, R03, R04, R09, R12, R13 | Clear | In-voice | Experience and reading language; no health claim |
+| **R06, R10** | Clear | In-voice | Experience and reading language; no health claim. **Consent on file (2026-09-28): brand clearance and customer consent for paid media. Unlocked for production.** Trim with an ellipsis where needed ([[Compliance and Claims Watchlist]] §3c) |
 | R05 | **Gated** | In-voice | "Overcoming sadness": frame as mood or outlook, never as treating depression |
 | R11 | **Gated** | Transformable | *„a fájdalom kicsit tompult"* (the pain dulled a little) is a health claim. Cut that clause; keep the practice and regularity parts |
 | R14 | **Unusable in ads** | — | *„életet mentett… az enyémet"* (it saved a life… mine) implies suicide prevention. Never in ads |
-| R15 | **Unusable as a whole** | — | Compares the book favourably to medication for anxiety. A medical claim and a risky "instead of meds" implication. Only *„Ritkán jól összeszedett és példákkal alátámasztott könyv"* (a rarely well-organised book, backed by examples) is liftable |
+| R15 | **Gated: two clauses cleared** (widened 2026-09-28) | In-voice | Cleared, trimmed per [[Compliance and Claims Watchlist]] §3c: the first sentence *„Az nyílvávaló hogy mindenkin nem fog működni a dolog mivel mindannyian külömbözőek vagyunk…"* (the "won't work for everyone" sentiment; the corpus's only real no-guarantee line) and *„Ritkán jól összeszedetten és példákkal alátámasztott ígéretes könyv!"*. Never: the medication sentence (a medical claim and an "instead of meds" implication) and the "5-10%" clause (a number on an ad with no source). **Consent on file (2026-09-28). Unlocked for production.** Built as H4 in [[Comment-Response Hooks - Book 1]] |
 | R13 | Clear | **Echo flag** | It repeats the brand's own anti-LOA message: brand language returning. That's positioning proof, but a lower-confidence insight |
 
-**Before any quote appears in an ad:** get written consent from the commenter, keep the date beside the quote, and run the [[Compliance and Claims Watchlist]] checklist.
+**Before any quote appears in an ad:** the record is in the consent log below, the date stays beside the quote, any trim uses an ellipsis ([[Compliance and Claims Watchlist]] §3c), and the [[Compliance and Claims Watchlist]] checklist has been run.
+
+## Consent log
+
+Permanent record: [[Tribal Knowledge]] → Consent log. This table mirrors it for this corpus.
+
+| ID | Status | Date | Scope |
+|---|---|---|---|
+| **R06** | **Cleared: brand clearance + customer consent** | 2026-09-28 | Paid media (quote, comment overlay, primary text); trims per §3c |
+| **R10** | **Cleared: brand clearance + customer consent** | 2026-09-28 | Same |
+| **R15** | **Cleared: brand clearance + customer consent** | 2026-09-28 | Paid media, **first sentence and the "well-organised book" clause only**, trimmed per §3c; the medication sentence and the "5-10%" clause never |
+| R01–R05, R07–R09, R11–R14 | Not cleared | — | Consent needed before any paid use |
 
 ## Coverage gaps
 

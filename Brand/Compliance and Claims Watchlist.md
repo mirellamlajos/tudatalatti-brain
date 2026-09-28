@@ -3,12 +3,14 @@ summary: "The Tudatalatti Kontroll compliance rails — which claims are brand-s
 type: compliance
 brand: Tudatalatti Kontroll
 status: working draft
-last_updated: 2026-09-24
+last_updated: 2026-09-28
 ---
 
 # Compliance and Claims Watchlist
 
-Every Domain Knowledge doc treats the brand's compliance framework as **"hardcoded walls, not guidelines."** Until the brand supplies its own, this is that framework. This is a self-development brand whose founder talks freely about illness, immunity and money, and those topics are where ads get rejected or create legal risk.
+Every Domain Knowledge doc treats the brand's compliance framework as **"hardcoded walls, not guidelines."** Until the brand supplies its own, this is that framework.
+
+> **Brain override — storytelling health advertorials are in the acceptable zone (Mercédesz, 2026-09-26).** The CEO reviewed the brand's best native ad ([[Winners - Ad Library]] W-001: autoimmune disease, a symptom-by-symptom recovery timeline, a translated composite narrator, unsourced statistics) and ruled that this type of storytelling ad is acceptable and the brain may write more like it. The sections below stay as written for reference, but for **long-form native storytelling ads** they are guidance, not a wall. What remains a **hard floor** in every ad, her words: **no cure, no guarantee, no doctor-bashing, no fake prices, and sourced numbers.** Working reading of the floor: (1) never "gyógyít / meggyógyul / cure"; the method gives the body a chance to reset, symptoms can ease, nothing is promised. (2) Never "guaranteed," "100%," "everyone." (3) The villain is the industry, patents and pills, never the doctor; "the doctor shrugged" is fine, "doctors are lying to you" is not. (4) Reference prices must have been charged. (5) Every statistic gets a source in the brain before it ships, or it's cut. Composite first-person narrators are allowed in this format; keep them plausible for the 50+ Hungarian reader and never attach a real name or photo of a real person to one. This is a self-development brand whose founder talks freely about illness, immunity and money, and those topics are where ads get rejected or create legal risk.
 
 ## 1. Health and medical: the biggest risk
 
@@ -18,6 +20,7 @@ The talks and the research say or imply that stress-image clearing affects the *
 - **Why:** EU and Hungarian unfair commercial practices rules (Hungarian Act XLVII of 2008, Annex item 17, prohibits falsely claiming a product can cure illnesses) and consumer-protection enforcement; plus Meta's health and wellness ad policies.
 - **Safe reframes:** sensory and experience language ([[Making Iterations]] and [[Static Ad Recreation]] substitution libraries): "calmer evenings," "less mental noise," "I finally switched off," "stress management / self-development method," "what the book teaches."
 - **The name "Healing Code" (*Gyógyító Kód*):** it's the product name of Loyd's method and can be named, but never pair it with a condition ("the Healing Code for migraines ✗").
+- **The brand's own line (CEO, 2026-09-25):** never say the method guarantees to solve any health issue, and never say something external heals the body. The body heals itself; the method "gives the body a chance to relax and start its own repair." That framing is on-brand. Internally the team also says "lower cortisol" and "regenerate cells." In an ad those read as physiological claims, so paid copy stays with the experience words (*nyugodtabb*, calmer; "more energy" as a felt state) and leaves the cortisol and cell explanation to the founder's own words on the page. The CEO names depression, anxiety, low self-esteem and stress-driven illness as the typical use cases; those stay out of ads as the audience's private reasons, never as our promise.
 
 ## 2. Meta personal-attributes policy
 
@@ -44,7 +47,7 @@ First-person creator statements and third-person stories are the safe pattern. T
 | Book "comparable to bestsellers," "professional evaluations" | Unnamed | Don't use without a named source |
 | Daughters' achievements | Founder's family facts | Verify the wording; **consent required**; one daughter was a minor in the story |
 | Steve Jobs's deathbed text | Widely considered fabricated | **Never in ads** |
-| Real comments with health or life implications: R14 *„életet mentett"* (it saved a life), R15 (better than medication for anxiety), R11 (the pain dulled) ([[Reviews - Facebook Comments (Book)]]) | Genuine, but medical or suicide-adjacent | **Never in ads.** R15 only its "well-organised book" clause; R11 minus the pain clause. Real testimonials don't escape the health-claim rule |
+| Real comments with health or life implications: R14 *„életet mentett"* (it saved a life), R15 (better than medication for anxiety), R11 (the pain dulled) ([[Reviews - Facebook Comments (Book)]]) | Genuine, but medical or suicide-adjacent | **Never in ads as a whole.** R15: two clauses cleared, trimmed per §3c (widened 2026-09-28): its first sentence, the "won't work for everyone" line (*„Az nyílvávaló hogy mindenkin nem fog működni a dolog mivel mindannyian külömbözőek vagyunk…"*), and its "well-organised book" clause. R15's medication sentence and its "5-10%" clause never. R11 minus the pain clause. Real testimonials don't escape the health-claim rule |
 
 ## 3b. Claims live on the website today (the landing page counts too)
 
@@ -61,6 +64,17 @@ Ads send people to atudatalattikontroll.com, so the landing-page copy is part of
 | Trust strip "17.000 tag" vs Facebook group "7.1K members"; "1.000 résztvevő" | **Inconsistent numbers on the same page** | Fix before running any ad that shows either number |
 | Press logos **Libri · Nők Lapja · Kiskegyed** | "As seen in" needs real coverage; Libri is a bookshop chain | Keep only with proof of coverage; relabel Libri as "Kapható: Libri" (available at Libri) |
 | "Gyors szállítás" (fast delivery) | One review reports a 2-week DPD delay | Fine, but monitor |
+
+### 3c. Real customer quotes [R]: clause-gating and trimming
+
+> **Brain override — trimming [R] quotes (Mirella, 2026-09-28).** "Clause-gating and trimming is authorized for [R] real customer comments to improve hook impact and pacing, provided the edit uses standard ellipses (...) and does not misrepresent the customer's original core sentiment or fabricate new claims."
+
+How it applies:
+
+- A trimmed quote is still the customer's words. Cut clauses; never add, reorder or paraphrase inside the quotation marks. Mark every cut with an ellipsis so a reader can see something was removed.
+- The full, unedited record stays in the corpus doc with its ID and date. The trimmed version cites the same ID.
+- Trimming is how a gated record's clean clause gets used (R11 without the pain clause; R15's "well-organised book" clause). §1 still decides which clauses are clean. The governors tables in [[Reviews - Facebook Comments (Book)]] and [[Reviews - Website (Book)]] name them per record; a clause not yet cleared there is proposed in a Review Context doc, not shipped.
+- Consent is separate from trimming. A trimmed quote ships in paid media only when the record is in the consent log ([[Tribal Knowledge]] → Consent log). Cleared as of 2026-09-28: R06, R10, W07, and R15 (first sentence and the "well-organised book" clause only).
 
 ## 4. Offers and pricing
 
@@ -82,6 +96,7 @@ For **physical goods** (the books, the printed Guide), a crossed-out "was" price
 ## 5. Tone rails
 
 - Attacking the *motivation industry* is on-brand. **Attacking the viewer** isn't: no shame for being "lazy," no "you're weak." The founder's own frame is compassion: *„senkit nem szabad elítélni"* (no one should be judged).
+- **Middle ground, both ways (CEO, 2026-09-25):** never the esoteric extreme (angels, ghosts, demons, spirits that control us) and never anti-medicine. The brand never speaks against doctors or medication. Safe line: "some things don't show up in bloodwork and a pill alone doesn't fix them." If a draft reads as either woo-woo or as a medical alternative, it's off-brand before it's a compliance problem.
 - Don't name competitor gurus (Tony Robbins, Brian Tracy, Dispenza) in paid ads unless the quote is accurate and fair (comparative advertising rules). The founder's talks name them; ads should say "motivational speakers" or quote the belief, not the person.
 - Religion: the "fear-based faith" teaching is usable. Never phrase it as a second-person assertion of the viewer's faith (Meta personal-attributes policy).
 - Suicide and depression in a hook read as a mental-health treatment claim (section 1), so they stay out of hooks.
@@ -91,7 +106,11 @@ For **physical goods** (the books, the printed Guide), a crossed-out "was" price
 1. No cure, treat or heal language, and no symptom promised as an outcome.
 2. No second-person assertion of a health, mental-health, weight or financial status.
 3. Every number has a source in the brain, or is flagged `[STAT NEEDED]`.
-4. Testimonials are real, consented and dated; composite [C] lines are never quoted ([[Language Bank - Founder and VOC]]).
+4. Testimonials are real, consented (the consent log in [[Tribal Knowledge]]) and dated; trims use an ellipsis and keep the core sentiment (§3c); composite [C] lines are never quoted ([[Language Bank - Founder and VOC]]).
 5. Family stories have consent on file.
 6. Affiliate or creator content is disclosed.
 7. The brain overrides still apply: Andromeda-distinct iterations ([[Making Iterations]]) and no fake "was" prices ([[Scriptwriting]]).
+
+## 7. Decision record (2026-09-26)
+
+The open question from the W-001 walkthrough ([[Walkthrough - Autoimmune Native Ad (2026-09-26)]]) is closed: **practice sets the wall for native storytelling ads.** The override at the top of this file is the ruling; the hard floor is the five items in it. Statics, headlines and short copy still follow §1–§5 as written, since none of those formats has been reviewed under the override.

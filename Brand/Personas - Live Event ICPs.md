@@ -2,14 +2,16 @@
 summary: "The Tudatalatti Kontroll audience — the core live-event avatar and the six ICPs (overloaded achiever, procrastinator, emotional eater, relationship-pattern repeater, spiritual-but-skeptical, success/money ceiling), with pains, desires, failed solutions, knowledge gaps, triggers and concept seeds."
 type: personas
 brand: Tudatalatti Kontroll
-status: hypothesis — built from research + composite VOC, not yet validated against account data or real reviews
+status: hypothesis — built from research + composite VOC, not yet validated against account data or real reviews; the age brackets describe the live-event audience, not the book buyer (see the 2026-09-25 correction)
 sources:
   - Research/Sources/Avatar Doc - Live Event (original).md
   - Research/Sources/ICP Doc - Live Event (original).md
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 # Personas — Live Event ICPs
+
+**Audience correction (2026-09-25, CEO walkthrough, [Stated]):** these ICPs were built for the **live-event** campaign. **The book buyer is older.** The CEO puts the range at 30–65+, says most customers are 50+, and a big majority of those are 65+, many retired. Until the ad account's age and gender split is pulled, treat book and bundle ads as an **older-audience task** ([[Advertising to Older Audiences]]): plain words, longer stories, the founder as the expert, big text, calm pacing. The six ICPs still describe the *pains*; their age brackets describe the event crowd. In the CEO's words, buyers want better health, better finances and better relationships (including a loving partner); their brake is scepticism and unanswered questions; and they try to understand everything consciously. Full note: [[Brand Profile - Tudatalatti Kontroll]] → Who buys.
 
 **Validation update (2026-09-24):** 15 real Facebook comments ([[Reviews - Facebook Comments (Book)]]) now support parts of this: the "tried everything, something blocks me inside" pain (core avatar and ICP 5), the anti-positive-thinking stance (ICP 5 sceptic), and a commenter base that seems to lean female (a name-based guess, low confidence). They add one thing the avatar missed: **practice friction**. Readers find the codes hard to keep doing, which is the natural bridge to the online course. ICPs 2, 3, 4 and 6 have no real-language support yet.
 

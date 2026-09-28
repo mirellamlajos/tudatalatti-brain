@@ -7,6 +7,7 @@ corpus_size: ~60 legible reviews (several truncated "Olvass tovább")
 coverage: partial and positive-selected; undated (the widget shows no dates); mix of HU with some DE/AT/SK buyers
 privacy: initials only; full names are public on the site
 imported: 2026-09-24
+consent: W07 cleared for paid media 2026-09-28 (Consent log below; permanent record in Knowledge/Tribal Knowledge.md)
 ---
 
 # Reviews — Website (Book)
@@ -75,6 +76,7 @@ Method: [[Customer Review Mining Method]]. Companion corpus: [[Reviews - Faceboo
 
 ## Governors (claims and voice)
 
+- **Consent on file, unlocked for production: W07.** Brand clearance and customer consent for paid media, 2026-09-28 (Consent log below; [[Tribal Knowledge]] → Consent log). Trim with an ellipsis where needed ([[Compliance and Claims Watchlist]] §3c).
 - **Clear** (quotable once consent is given): W01, W03 (the calmer part), W04–W09, W11–W14, W16, W18–W23, W24 (as a stated opinion, not proof).
 - **Gated:** W10 (drop the phobia clause and keep calmer, sleep calmer, more patient; phrase "sleep" as *„nyugodtabban alszom"* in the customer's voice, never as a claim that it treats insomnia); W02 (mentions religious faith: fine in the customer's own voice, never turned into a second-person faith hook, per Meta's personal-attributes policy); W15 (it names Silva/agykontroll, a third-party brand; fine to quote).
 - **Unusable in ads:** W17's *„gyógyszer"* ("it's medicine") framing (a medicine claim); the review of a relative with *„súlyos betegség"* (a serious illness); K.J.'s *„…el tud bárkit vinni az egészséghez"* (…can lead anyone to health); K.L.'s *„a gyógyulásomhoz"* (to my healing); the M. review (decades of anxiety plus medication). Health and medical territory; see [[Compliance and Claims Watchlist]].

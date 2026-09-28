@@ -6,7 +6,8 @@ sources:
   - Research/Sources/Talk - Book Presentation (transcript).md
   - Research/Sources/Talk - Healing Code Event (transcript).md
   - Research/Sources/Master Mega Research (original).md
-last_updated: 2026-09-24
+  - Research/Sources/Interview - CEO Brand Walkthrough 2026-09-25 (transcript).md
+last_updated: 2026-09-25
 ---
 
 # The Method — Mechanism and Beliefs
@@ -49,6 +50,22 @@ From the Healing Code event talk. The numbering follows the founder's own talk, 
 The website now presents the practice as **„A Tudatalatti Kódolás hat szintje"** (the six levels of Subconscious Coding), taught step by step with **kérésszövegek** (request texts). The levels it names are *törlés* (clearing) → *energetizálás* (energising) → *a végső belső célod megtalálása* (finding your ultimate inner goal) → …, each **tuned separately for health, relationships and financial success**. The talk's five steps above map onto this. The talk also mentioned a later "sixth level," love-based faith. **Use "six levels" in all public-facing copy**, and ask the brand for the exact names of levels 4–6.
 
 **Recommended practice rhythm** (site FAQ): *„Napi 1–2 alkalommal, reggel és este"* (once or twice a day, morning and evening). Missing a session is fine, and breaks are allowed.
+
+## The practice, as the team describes it (CEO walkthrough, 2026-09-25)
+
+The CEO's plain-English version of the doctrine. All [Stated]; it matches the talks and adds the practical shape of the method.
+
+- **The daily practice:** a Healing Code session is **about 7 minutes**, done **twice a day: after waking and before bed.** A few hand positions: the brand's own ad copy describes fingers pointed at certain points **on the face and neck, from 1–2 cm away, without touching, in a set order, while silently repeating a sentence** ([[Winners - Ad Library]] W-001; the CEO said "points on your head"). No breathing technique to master, no flexibility, "no weird stuff with your body." The team's name for the practice: **kódolás**.
+- **No middleman:** no therapist, hypnotherapist or psychologist needed. You do it alone.
+- **Built for the modern person:** no retreat, no monk mode in the hills, no two hours of yoga a day. For someone with a job, a family and responsibilities. This is the brand's speed and simplicity claim, and a natural permission hook ([[Hooks]] #21).
+- **Why the mainstream fails (her framing):** Hill, Proctor and the rest stop at conscious decisions. What they give is "a momentary good feeling and a dopamine hit," not lasting change. The subconscious runs 90–95% of life; the conscious mind 5–10%.
+- **The mechanism in one line:** the subconscious records every memory as an image; change the images and your reaction to the same situation changes. The goal isn't to fix the environment (you can't control it) but how you experience it inside.
+- **Loyd as the authority:** the brand leans on Dr. Alexander Loyd's doctorate, US recognition, testimonials and "clinical studies" (his own; not independently checked here). Antal adopted the Healing Codes and extended them to other areas of life.
+- **The three pillars, in her words:**
+  - **Health:** chronic stress keeps the body in fight-or-flight, so it never gets to lower cortisol and go into repair mode. The method "gives the body a chance to relax" so its own healing can run. **The brand's rule of thumb: the body heals itself; nothing external heals it. Never "100% guaranteed."** Ad-safe wording: [[Compliance and Claims Watchlist]] §1.
+  - **Relationships:** people blame the other gender or the environment ("you can't find a loyal, good partner these days"). The loop repeats because they don't value or love themselves first. Reprogram inside, and the reaction, then the relationship, changes.
+  - **Wealth:** money fears and self-limits ("rich people must be thieves," "I don't deserve abundance") are absorbed from parents and society. They aren't yours. You can drop them the moment you see they're self-imposed.
+- **The one limitation she names:** "not enough studies" and general scepticism. Her answer is 50,000+ copies and the daily flow of reader stories.
 
 ## Book 2 adds three theses (2026)
 

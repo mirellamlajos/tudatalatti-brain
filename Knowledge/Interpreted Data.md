@@ -26,3 +26,36 @@ Sources: [[Reviews - Facebook Comments (Book)]] (15, dated) and [[Reviews - Webs
 7. **Evidence that we're missing negatives:** only one 4★ and one delivery complaint are visible. Pull retailer reviews (Moly.hu, Libri, Bookline) and ad comments for objections before building comment-response hooks ([[Hooks]] #1).
 
 **What would change these reads:** negative or neutral comments, retailer reviews (Moly.hu, Libri, Bookline), course and event feedback, and ad-account data (comment sentiment on ads, demographics by spend).
+
+## 2026-09-25 — Creative and account learnings from the CEO walkthrough
+
+Source: [[Interview - CEO Brand Walkthrough 2026-09-25 (transcript)]]. **All of this is [Stated] by Mercédesz from memory of the account. No export has been seen yet**, so treat it as the team's read of their own data, to be confirmed against spend-ranked results ([[Analyzing Ad Account Data]]).
+
+**What has worked (statics and copy)**
+1. **"The law of attraction doesn't work, do this instead"** is the strongest hook on record. It's the myth-busting doorway ([[Hooks]] #15) aimed at the Believer slice of ICP 5, and it confirms the brain's bet that failed-solution agitation beats problem education for this high-sophistication audience.
+2. **"Change doesn't start outside, it starts within"** is a proven headline. It's the Hamvas creed in plain words ([[The Method - Mechanism and Beliefs]]).
+3. **Images of Antal, and images of the book, both work.** The founder's face and the physical product are the two reliable visual anchors.
+4. **Book extracts** (showing a passage) worked as a concept. That matches the "reading moment" insight from the reviews (2026-09-24 read, point 3).
+5. **The current scaling format is a native-style image + long-form storytelling copy.** GetHookd is the visual and story inspiration source for it.
+
+**What worked, then stopped**
+6. **Founder-to-camera video** (speech and presentation extracts) performed strongly, then faded after a few months. Classic fatigue, not a format failure. **Antal won't record new to-camera video**, so the fix is re-cutting the existing library with new openers ([[Making Iterations]]) and building non-founder video.
+
+**What hasn't worked**
+7. **AI-generated UGC** has not performed. The CEO thinks newer tools might change that. **No video is running at all right now** for lack of founder content.
+
+**Audience reality vs. the personas**
+8. **Buyers are 50+ and mostly 65+, many retired.** This is the single biggest correction to the brain so far. The live-event personas skew 32–45. For book and bundle ads, [[Advertising to Older Audiences]] is the default lens, and the "storytelling image + long copy" format that's scaling now is exactly what that doc predicts for this age group. Hypothesis: the proven "law of attraction" and "change starts within" lines work *because* this audience has decades of failed methods behind it ("tried everything, nothing stuck").
+9. **The main brake is scepticism plus unanswered questions.** So FAQ-style and objection-first creative ([[Hooks]] #1 comment-response, #8 "how do I know if") should be in every weekly batch, fed by the Monday comment analysis ([[Operating Cadence and AI Workflows]]).
+10. **Buyers try to understand everything consciously**, which the method says they don't need to. Creative implication: don't over-explain the mechanism in the ad; show the simplicity (7 minutes, twice a day, no therapist) and let the book do the explaining.
+
+**On the open question: AI-animated storytelling video (the CEO asked for a call)**
+- **Worth a small, cheap test, not a pillar.** The brand's proven video asset is a real person with authority. Animation removes the face, and this 50+ audience trusts a credentialed, plain-spoken expert more than a cartoon ([[Advertising to Older Audiences]]). Most animated "story" ads also fail the realness test in [[Killer Performance Ads]].
+- **Cheaper, higher-odds video tests first:** (a) re-cut the founder library with new first-3-second openers and big captions; (b) "book extract" video: a page, a highlighter, a voice reading the passage; (c) review-as-primary-text video from real [R] quotes with consent; (d) Mercédesz to camera. She's the brand's second face (event speaker, [[Stories and Proof Assets]] row 3) and the only person who can still record.
+- **If animation is tested:** use it for the mechanism metaphors that need "make the invisible visible" ([[Visuals]]): the stress barrel, the door that closes, water off a duck's back. Voice: the founder's real audio from the talks, not a synthetic voice. Ship 2–3 pieces, judge on the same 4-day average, then decide whether an editor is worth hiring.
+
+**What would change these reads:** the ad-account export ranked by spend (top 20 over 60 days), age and gender by spend, and per-format ROAS.
+
+## 2026-09-26 — First hard number: the autoimmune native ad
+
+Source: CEO, 2026-09-26 ([[Winners - Ad Library]] W-001). €260 spend → €650 revenue, ROAS 2.5, 7 days, on engagement retargeting of the biggest past spenders. **Read:** the long native storytelling format clears the brand's scaling bar (2.5) on a warm audience at tiny spend. That's a green light to build variants, not proof it scales cold. The two cheapest next tests are (a) the same copy on a cold problem-aware audience and (b) two new images on the same copy. **What would change this read:** spend above €1,000 on the ad, and a cold-audience result.
