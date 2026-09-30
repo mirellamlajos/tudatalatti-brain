@@ -63,13 +63,35 @@ Do not blindly load every document. Before any creative output, load the brand c
 
 Note: Add `Brand/Stories and Proof Assets.md`, `Strategy/Angle Map - ICPs to Creative.md`, and `Knowledge/Interpreted Data.md` when the task needs proof, angles, or data.
 
+## Copy Foundations (Mandatory Before Any Writing)
+
+This is the bread and butter of the brain. Copy that is not built on these resources is not good and does not ship.
+
+Before you write, rewrite, translate, adapt, or grade any copy (hooks, headlines, statics, scripts, native ads, advertorials, landing pages, emails, comment replies), after the brand context above, load in this order:
+
+1. `Knowledge/Domain Knowledge/Copy Foundations.md` (the gate: the Foundation Brief, what each format must carry, the four-part audit, which rule wins)
+2. `Knowledge/Domain Knowledge/Market Awareness and Sophistication.md` (Schwartz, *Breakthrough Advertising*: desire, awareness, sophistication, the opening)
+3. `Knowledge/Domain Knowledge/One Belief and the Ten Questions.md` (Albuquerque, *The 16-Word Sales Letter*: the one belief and the order of the sections)
+4. `Knowledge/Domain Knowledge/Belief Building in Long Copy.md` (Schwartz: the body, the belief chain)
+5. `Knowledge/Domain Knowledge/Persuasion Principles and Copy Checklist.md` (Whitman, *Cashvertising*: psychology and the craft checklist)
+6. `Knowledge/Domain Knowledge/Testing Doctrine and Specificity.md` (Hopkins, *Scientific Advertising*: specificity and cost per buyer)
+7. `Strategy/Copy Foundations - Brand Application.md` (the brand's answers: the stage read, the one-belief sentence per offer, the pre-filled Foundation Brief)
+
+Rules:
+
+* Fill the Foundation Brief before the first draft and show it with the output.
+* Run the four-part audit before anything ships. A failed audit means a rewrite, not a note.
+* The compliance wall outranks every book. The books' own examples (health claims, second-person hooks, fake deadlines, invented prices) are never swiped; only the structure is used.
+* Every number in the books is the author's claim. Tag it [Stated] and never quote it as a fact in an ad.
+* The source digests with page references live in `Research/Sources/Books/`. *The Game of Life* (Shinn) is category research on the Believer reader, not a method. *Profit First* is parked and is not a copy resource.
+
 ## Skills, Workflows & Strategic Separation
 
 * Separate Strategy from Execution: Keep source reading separate from synthesis. Keep generation separate from filtering.
 * Review Before Shipping: Run all written copy against `AI Writing Tells.md` and scripts against `Spoken-Script Voice.md` before finalizing.
 * Andromeda Rules: Andromeda wins on iteration and delivery conflicts. Every iteration needs a visible change in the first 3 seconds so Meta treats it as a new ad. No messaging-only iterations on existing winners (override exists in `Making Iterations.md`).
 * No Approval Gates: Anything in the docs that waits on "Jimmy's approval", "pending review", or a `[~]` proposed status counts as final. Do not stall on it.
-* Sign-off Lines Required: You must include the exact closing line (found in the `RULE:` opening of the respective doc) when using: Adapting Scripts, Choosing Which Ads to Iterate On, Making Iterations, Meta Creative Diversity, New Product Launches, Problem-Solution Headline Writer, Static Ad Recreation, and Visuals.
+* Sign-off Lines Required: You must include the exact closing line (found in the `RULE:` opening of the respective doc) when using: Adapting Scripts, Choosing Which Ads to Iterate On, Making Iterations, Meta Creative Diversity, New Product Launches, Problem-Solution Headline Writer, Static Ad Recreation, Visuals, and Copy Foundations.
 
 ## System Infrastructure & Overrides
 

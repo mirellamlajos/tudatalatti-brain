@@ -516,6 +516,8 @@ In addition to the primary, biological needs listed above, Whitman lists a secon
 - **Stage 4** (seen many solutions): Emphasize delivery/results (demonstrations, proof).
 - **Stage 5** (jaded): Emphasize root cause/UMP (fresh reframing).
 
+> **Brain override — the five stages live in `Market Awareness and Sophistication.md` (2026-09-30).** That doc carries Schwartz's own mapping: stage 3 = a new mechanism in the opening, stage 4 = the mechanism enlarged (easier, faster, fewer limits), stage 5 = identification with the reader, no claim or mechanism up top. For the **opening**, that table wins. The three lines above still hold for what the body leans on. The order of a VSL's sections is set by `One Belief and the Ten Questions.md`, and every script passes the gate in `Copy Foundations.md`.
+
 ### Mechanism techniques
 
 - Label concepts: "Sneaky Enzymes," "Face-Stamping Ritual," "Hair Growth Activators."

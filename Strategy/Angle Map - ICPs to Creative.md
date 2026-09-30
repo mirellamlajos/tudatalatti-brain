@@ -26,6 +26,20 @@ The ICP research recommends **six creative universes**: separate visuals, vocabu
 | **Why attraction didn't work for you** | 5 Believer | Solution/product-aware | Switch | Soft | #3 Scam ("Azt hittem, a bevonzás átverés" — I thought attraction was a scam), #20 Question | The vision board sliding off the fridge ("falra hányt borsó") | Order of operations: clear before you visualise |
 | **Rewriting the success ceiling** | 6 Money ceiling | Problem-aware | Awakening | Zone 3 → 1 | #13 Self-expose / founder Mercedes confession, #17 Comparison | A cracking glass ceiling; weights on the shoulders | Founder's Mercedes story; the inner-goal "why" drill |
 
+### The Foundations read of the six universes (2026-09-30, Inferred)
+
+Every universe now starts from [[Copy Foundations]] and the brand's answers in [[Copy Foundations - Brand Application]]. The lead pattern is one of the eight unaware patterns in [[Market Awareness and Sophistication]]; the body move is from [[Belief Building in Long Copy]].
+
+| Universe | Desire that leads | Cold lead pattern (first or third person) | Body move that does the work |
+|---|---|---|---|
+| Standby → Calm | To finally switch off | Hidden dream (*„…legalább nyugtom lenne"*) | Simplify: about 7 minutes, twice a day |
+| "I know, but I don't do it" | To stop the search | Result of the problem, third person (Book 2's Feri) | The flip: knowing was never the missing piece |
+| Relapse cycle → Stability | To stop starting over | Shared resentment (everything already tried) | Concentration: willpower methods against clearing first |
+| Relationship loops | Better relationships | Result of the problem, third person | Escalation: the same pattern under every reaction |
+| No woo-woo | To stop the search | Accepted image (the forgotten word that comes back) | Mechanism described step by step; deadly sincerity |
+| Why attraction didn't work | To stop the search | Shared resentment (the vision board that did nothing) | Concentration, with the fix in the same breath: clear before you visualise |
+| Success ceiling | More money, landing on calm | Final triumph reversed (the founder's Mercedes) | Escalation, and the inner-goal "why" drill |
+
 Across all of them, the default creator is **the founder** (see [[Creative Strategy by Brand Size]]: founder ads while the brand is at a relatable scale). Brief him loosely: he's an authority with his own voice ([[Creator Briefs]]).
 
 ## Funnel and format split

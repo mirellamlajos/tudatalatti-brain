@@ -201,6 +201,8 @@ A ranking principle for choosing which ugly ads to make: prefer the ones AI can'
 
 Coined by the late great Eugene Schwartz and discussed in detail in his book *Breakthrough Advertising*. Different awareness levels demand different styles of ads.
 
+> **Brain override — the full version is in `Market Awareness and Sophistication.md` (2026-09-30).** That doc is built from the book itself: the move for each state, the seven tasks for a product-aware buyer, the three elimination rules and eight lead patterns for an unaware one, and the five sophistication stages. Where this section and that doc differ, that doc wins. All copy passes the gate in `Copy Foundations.md`.
+
 The five awareness levels:
 
 - **Unaware** = They are unaware of a problem they could be facing, aren't looking for a solution, and definitely have no clue about our client's products. These are the hardest people to convert but the pool of audience is huge.

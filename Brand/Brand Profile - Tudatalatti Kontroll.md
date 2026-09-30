@@ -75,6 +75,7 @@ Not another motivational talk: **a system that works on the part of you that act
 
 **Problem/solution brand** with a strong identity layer. The audience knows something is wrong ("elértem dolgokat, mégsem vagyok jól" — I've achieved things, yet I'm not okay) and has usually tried several fixes. So:
 - **Market sophistication: HIGH.** They've tried meditation, sport, coaches, self-help, Dispenza and the Law of Attraction. Per [[Scriptwriting]] and [[Problem-Solution Headline Writer]]: don't over-educate the problem. Agitate failed solutions, lead with the mechanism, and frame it as a turning point.
+- **Stage read (2026-09-30, Inferred): stage 4 moving into stage 5** on the five-stage scale in [[Market Awareness and Sophistication]]. Bare promises don't land; the mechanism has to be in the argument and enlarged (why the order matters, how little it asks); cold openings go to identification. Evidence, the one-belief sentence for each offer and the pre-filled Foundation Brief: [[Copy Foundations - Brand Application]].
 - **Default awareness entry:** problem-aware / solution-aware ([[Killer Performance Ads]]). Their "failed solutions" are the richest hook territory ([[Hooks]] #2 Investment, #13 Controversy, #15 Myth-busting).
 
 ## Who buys (CEO, 2026-09-25; corrects the age picture)

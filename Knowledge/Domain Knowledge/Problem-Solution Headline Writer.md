@@ -108,6 +108,8 @@ Count how many solutions they've tried:
 
 Write down internally: "My customer is [HIGH/LOW] sophistication because [reason]"
 
+> **Brain override — then pick the exact stage (2026-09-30).** LOW is stages 1–2 and HIGH is stages 3–5 in `Market Awareness and Sophistication.md`. Name the stage, because the headline move differs: stage 3 leads with a new mechanism, stage 4 enlarges it, stage 5 drops the claim and identifies with the reader. The same doc's 38 headline moves (wall-tagged) are available in Step 5. Every headline passes the gate in `Copy Foundations.md`.
+
 **WHY THIS MATTERS:** This determines which headline structures and approaches will work. High sophistication customers need you to acknowledge they've been burned before. Low sophistication customers need you to make things instantly understandable.
 
 ### Step 5: Study Headline Structures In The Context Doc

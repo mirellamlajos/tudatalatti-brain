@@ -59,3 +59,30 @@ Source: [[Interview - CEO Brand Walkthrough 2026-09-25 (transcript)]]. **All of 
 ## 2026-09-26 — First hard number: the autoimmune native ad
 
 Source: CEO, 2026-09-26 ([[Winners - Ad Library]] W-001). €260 spend → €650 revenue, ROAS 2.5, 7 days, on engagement retargeting of the biggest past spenders. **Read:** the long native storytelling format clears the brand's scaling bar (2.5) on a warm audience at tiny spend. That's a green light to build variants, not proof it scales cold. The two cheapest next tests are (a) the same copy on a cold problem-aware audience and (b) two new images on the same copy. **What would change this read:** spend above €1,000 on the ad, and a cold-audience result.
+
+## 2026-09-29 — The AI Pixar-3D story ad is a market format, and Jackson Yew's version is engine output
+
+Source: [[Swipe Sources - AI Pixar Story Ads, Jackson Yew Network (2026-09-29)]]. Read from the Meta Ad Library (Jackson Yew network, ~1,000 ads) and GetHookd (AI-made video ads ranked by impressions).
+
+1. **Jackson Yew switched from talking-head to Pixar-3D AI video on 1 Sep 2026**, then re-skinned his "Tuesday off" script from a one-day live cut (17 Sep) into a 2-minute Pixar piece with 8 variants (24 Sep). Only his English page does this. The Chinese pages in the same network run live UGC only.
+2. **The "swipe file" is a batch generator they sell:** "past winning ads × this week's angles × formats = 24 to 40 variants per batch" (theimplementers.ai/meta-ads-os). One ad even shipped with the template note: "Recognized circumstance → 'Here's what's going on' → diagnosis → next step." Verified from the ad copy.
+3. **The format is young but real across direct response.** GetHookd's `animation / pixar_3d / ai_person` tags match under 500 ads library-wide, and the biggest runners are health advertorials (resilia.shop), one MMO educator (Brook Hiddink, performance 88, his only AI ad of 669) and a sleep app (Rise, one creative reused 20 times).
+4. **Hypothesis for us:** a Pixar-3D 60+ Hungarian narrator solves the "no founder, no daughters on camera" constraint for the native storytelling lane. Guardrail: the character is a [C] composite and can never be presented as a real reader.
+5. **Second pass, same day:** Brook Hiddink is not a one-ad user of the format. A thumbnail read of his newest 240 videos found 26 distinct Pixar-3D and animated creatives launched 21 to 28 Sep, all on one unchanged primary text (a "Free Live Training TONIGHT" block). Ten are a "Pixar news anchor reports on the founder" device. Saved to GetHookd board 365487 and the swipe file; details in the swipe doc §7.
+
+## 2026-09-30 — What the four advertising books say about our winners
+
+Source: the full-text digests in `Research/Sources/Books/` (Schwartz, Albuquerque, Whitman, Hopkins), read against [[Winners - Ad Library]] and the 2026-09-25 CEO learnings above. Every read here is **Inferred**: the books explain the pattern; they don't prove it. The account export is still the test.
+
+1. **W-001 works the way Schwartz says a cold, burned market has to be approached.** Its opening names no product, no price and no promise, and it's about the grandmother, so the reader picks herself out (an identification opening, the unaware state in [[Market Awareness and Sophistication]]). It looks like a post, not an ad, and runs from a person's page (camouflage, [[Belief Building in Long Copy]]). The strangest idea in it, the hand-position practice, arrives two-thirds of the way down, after the problem mechanism is accepted, next to a familiar picture (the dead battery). That's a prepared belief chain.
+2. **W-001 also answers the ten questions nearly in order** ([[One Belief and the Ten Questions]]): what's different (1), the real problem (4), what's to blame (5), a been-in-your-shoes narrator (7), how it works (8), proof stretched over weeks with a sceptic witness (3), then the offer. Its proof comes late. **Hypothesis:** a version with one small proof beat in the first third tests better.
+3. **"The law of attraction doesn't work, do this instead" is a concentration move:** the rival method's weakness and the fix in one breath. It fits a stage-4 market, where a rival mechanism is what buyers already believe in.
+4. **Book 2's title is a stage-5 identification line.** It makes no claim. It describes the reader. That's the right opening for the most burned readers and explains why it can carry cold ads as it stands.
+5. **Book extracts working is Hopkins's sample rule:** the product itself, met after the story, sells best. **Hypothesis:** an extract or free chapter asked for after a story ad is the cheapest untested route to a buyer.
+6. **The founder's face and the book keep working** because they're the brand's primary image (Schwartz) and a real named person behind the ad (Hopkins). Intensify them; don't replace them.
+7. **The brain's high/low sophistication read was too coarse.** The buyer base reads as stage 4 moving into 5 ([[Copy Foundations - Brand Application]] §3). Bare calm promises are stage-1 lines in that market.
+8. **One open disagreement between the sources.** Hopkins says show the wished-for state, not the problem. The brand's strongest hook leads with what failed. That's a test to run, not a rule to pick.
+
+**What would change these reads:** spend-ranked account data by opening type; a cold test of W-001; a GetHookd scan of what stage Hungarian competitors write at.
+
+**What changed in the brain because of this:** all copy now passes the gate in [[Copy Foundations]]. *The Game of Life* (Shinn) is filed as category research on the Believer reader, not as method. *Profit First* is parked (the file is a publisher sample, chapters 1–5 of 12).
