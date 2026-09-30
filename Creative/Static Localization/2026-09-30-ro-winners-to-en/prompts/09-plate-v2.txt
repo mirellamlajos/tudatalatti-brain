@@ -1,0 +1,30 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a dark room with patterned wallpaper, a grey-haired man in a navy pinstripe suit and red tie resting his forehead on his hand, on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. The headline is NOT larger or wider than the original: line 1 starts at the original left margin and ends at about 64% of the image width; line 2 ends at about 66%.
+  line 1: CAN’T CONTROL YOUR
+  line 2: NEGATIVE THOUGHTS?
+  The word "NEGATIVE" is red (the same red as in the original). Every other word and the question mark are white.
+
+- First body paragraph under the headline (Montserrat SemiBold, sentence case), same left margin as the headline, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly two lines broken like this:
+  line 1: Anxiety, fear and frustration will keep haunting
+  line 2: you if you rely on positive thinking alone.
+  The words "on positive thinking alone." are gold (the same gold as in the original). Every other word is white.
+
+- Second body paragraph (Montserrat SemiBold, sentence case), under the first, same left margin, to the left of the man, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly four lines broken like this:
+  line 1: Real change can happen when
+  line 2: you erase the fears and
+  line 3: harmful images programmed
+  line 4: deep in your subconscious.
+  Lines 1 to 3 are white. Line 4 is gold.
+
+- Keep the gold BEST SELLER seal at the bottom right exactly as it is.
+
+CHANGE 2: Remove these things completely: the two red books, the small round red-and-gold plus sign between them, and the gold label "OFERTĂ NOUĂ!" above the smaller book. Fill the area where they were with the natural continuation of the background (the dark wallpaper and dark desk on the left; the man's suit jacket and sleeve continue where the smaller book overlapped him). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+The person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

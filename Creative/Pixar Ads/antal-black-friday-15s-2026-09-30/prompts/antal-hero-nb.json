@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-09-29T23:13:30.569312Z",
+    "display_name": "Nano Banana Pro",
+    "id": "f1a208e7-d9aa-4c0d-a557-4cd2f6dccdc4",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231330_f1a208e7-d9aa-4c0d-a557-4cd2f6dccdc4_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "3:4",
+      "batch_size": 1,
+      "height": 2400,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "5249b4f0-7129-4ca6-8324-d0e96b889a2f",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/5249b4f0-7129-4ca6-8324-d0e96b889a2f.png"
+        }
+      ],
+      "prompt": "Transform the man in the reference photo into an original 3D animated feature-film character. Stylised rounded proportions, big expressive eyes, soft subsurface skin, clean smooth surfaces, cinematic three-point lighting, warm colour grade. Keep his exact likeness: same face shape, same dark swept-back hair with a little grey at the temples, same calm warm half-smile, same black turtleneck, dark charcoal trousers. Dignified and recognisable, never a caricature. Full body, standing, relaxed, one hand loosely at his side, facing camera. Plain light-grey studio background, even soft light. Single character, no text, no logo, no watermark.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 1792
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231330_f1a208e7-d9aa-4c0d-a557-4cd2f6dccdc4.png",
+    "status": "completed"
+  }
+]

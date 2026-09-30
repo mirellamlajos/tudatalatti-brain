@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-09-29T23:14:27.942779Z",
+    "display_name": "GPT Image 2.5",
+    "id": "a805e667-e69d-4c8d-8b61-8eb4e126a934",
+    "job_type": "gpt_image_2_5",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231427_a805e667-e69d-4c8d-8b61-8eb4e126a934_min.webp",
+    "params": {
+      "aspect_ratio": "3:4",
+      "height": 1168,
+      "medias": [
+        {
+          "data": {
+            "id": "d3aaae91-00d9-447e-9c7b-194b701527a0",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/d3aaae91-00d9-447e-9c7b-194b701527a0.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "flare",
+      "prompt": "The book from the reference image, cover matched exactly: same title text, same author name, same large numeral, same blue vortex artwork, same layout and colours. Render it as a prop in a 3D animated feature-film look: slightly softened edges, subtle paper texture on the page block, standing upright at a slight three-quarter angle on a plain neutral grey background, soft studio light. No extra text, no changes to the cover art, no white outline, no glow around the book.",
+      "quality": "low",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "1k",
+      "width": 880
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231427_a805e667-e69d-4c8d-8b61-8eb4e126a934.png",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,20 @@
+LANGUAGE: every spoken line in this video is in Hungarian. No Mandarin, no English, no other language.
+
+STYLE: 3D animated feature-film look, exactly matching the reference images. Stylised rounded character, smooth clean surfaces, cinematic lighting, shallow depth of field, warm grade. Not photorealistic, not live action. Vertical 9:16.
+
+REFERENCES:
+Image 1: Antal's character sheet. Antal looks exactly like Image 1 in every shot: same face, same dark swept-back hair with grey at the temples, same black turtleneck, same dark charcoal trousers.
+Image 2: the study. The scene is this room: the tall wooden bookshelf of plain worn paperbacks, the desk with the green lamp and the mug, warm late-afternoon light from the window on the left.
+Image 3: the blue book. The cover stays exactly as in Image 3, title and artwork unchanged.
+Audio 1: voice reference for Antal only. Antal speaks with exactly this voice, this pitch and this unhurried pace. Audio 1 is not a soundtrack.
+
+VOICE: Antal: male, low-mid pitch, unhurried, warm and dry, plain Hungarian, no radio polish. One consistent voice for the whole clip.
+
+SHOTS:
+0:00–0:05 — Medium shot, slow push in. Antal stands beside the bookshelf, taps two worn spines with one finger, then looks at the camera, calm and kind. Antal: „Elolvastad. Megértetted. Mégsem változott semmi."
+0:05–0:10 — Medium-close, static. He pulls the blue book (Image 3) from the shelf and holds it chest-high, cover square to camera. Antal: „Ezért írtam meg a második kötetet. Onnan indulunk, ahol elakadtál."
+0:10–0:15 — Close-up on the book cover, then tilt up to his face; he glances down toward the bottom of the frame and back up with a warm half-smile. Antal: „Hétfő éjfélig 25 százalékkal olcsóbb. Kattints a linkre itt lent, és olvass bele."
+
+DO NOT RENDER: on-screen text, subtitles, captions, logos, watermarks, extra characters, wardrobe changes, readable book titles on the shelf.
+
+AUDIO: dialogue as written, natural quiet room tone, no music.

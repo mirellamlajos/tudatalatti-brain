@@ -1,0 +1,41 @@
+# Failure Log — Pixar-style AI video ads
+
+Every mistake this pipeline has produced, where it came from, and the fix that's now standard. Read it before Phase 4. Add to it whenever a run teaches something new (the SKILL.md feedback loop also copies the rule into `Knowledge/Tribal Knowledge.md`).
+
+Sources: T = the "How I Make Pixar AI Animation Ads" tutorial (Seedance 2.5 + Claude + Higgsfield, 2026); B = this brain's own runs (none yet as of 2026-09-29); S = the swipe research in `Research/Swipe Sources - AI Pixar Story Ads, Jackson Yew Network (2026-09-29).md`.
+
+| # | Failure | Where it shows | Cause | Fix now standard | Src |
+|---|---|---|---|---|---|
+| 1 | Dialogue rendered in Mandarin | First video renders | Seedance defaulted to another language with no visible trigger | The LANGUAGE line is the first line of every video prompt: "every spoken line is in Hungarian, no Mandarin, no English" | T |
+| 2 | Wrong voice on a character after extension | Segment 2+ made with the extend feature | Extension copies the voices in the tail clip; the last speaker in the tail was a different, high-pitched character | Cut the tail so the next speaker is the last heard (or end on silence), and bind a per-character voice reference (`--audio-references`, "Audio 1 is X's voice only") | T |
+| 3 | Voice drifts between segments even without extension | Any multi-segment film | Seedance isn't reliable at holding a voice across separate generations | Build a voice file per speaking character from an approved take after segment 1; attach it to every later call and every variant | T |
+| 4 | Grainy texture on characters | Hero images from GPT Image | Model texture, not the prompt | Make the character sheet in Nano Banana 2 from the GPT hero image; it removes the grain and reads more animated. Mixing models per asset is normal | T |
+| 5 | Prop doesn't match the real product (white outline on the bottle) | Prop generation | Model added an outline the real object doesn't have | Pass the real reference as `--image`, say "match the reference exactly, no white line, [real finish]", regenerate. For us: the book cover must match the real cover | T |
+| 6 | Character drifts from the reference | Any generation | Loose prompt, or a sheet that already drifted from the hero image | Say "keep closer to the reference; same face, same hair, same [garment]"; regenerate the sheet if the sheet itself drifted; never feed a drifted sheet to video | T |
+| 7 | Many expensive regenerations of the first video | Phase 4 | Small prompt errors, a character or location that wasn't quite right, all found after paying for the render | Every gate before video: brief approved, assets approved, prompt read line by line against the brief. Images are cheap; video is a decision. Use the draft path if it's a cheap preview | T |
+| 8 | "Weird little things" in the generated prompt | Prompt drafting | The prompt generator added a detail the brief doesn't have | Prompts are filled from the brief only; a detail not in the brief is deleted, or added to the brief first | T |
+| 9 | Elements re-uploaded and mis-bound | Video prompting | Attaching images ad hoc per call | Register assets once (web: "assign element"; CLI: manifest with upload/job ids), pass in a fixed order, bind by position in the prompt (Image 1 = …) | T |
+| 10 | A 30-second cap breaks a line mid-sentence | Segment planning | Script not broken at natural cuts | Segment breaks at ≤30 s on a natural pause, never mid-line; the brief marks the last speaker of each segment | T |
+| 11 | AI slop nobody finishes | The whole ad | Story built around the product instead of a person and a joke | Phase 1 rules: relatable scene, a real laugh or a real warmth, product late, the mechanism made visible | T, S |
+| 12 | Composite character read as a real testimonial | Claims | First-person "I got better" from an animated narrator | Frame as fiction, narration or news; never "one reader wrote"; never a real name or face; outcome word stays *nyugodtabb* | S, Compliance |
+| 13 | Risky swipe claims carried over | Script | Copying the reference ad's promises ("sleep like a rock, hard to kill") | Swipe the structure, never the claims; compliance table in the brief | T, Compliance |
+| 14 | Text baked into the render | Video | Asking the model for captions or titles | "DO NOT RENDER: on-screen text, subtitles, logos." Captions and the headline card go on in post so they're big and legible | Older Audiences |
+| 15 | Near-duplicate variants that don't count as new tests | Variant plan | Changing copy or VO only | Andromeda: the first 3 seconds change visibly (opening shot, scene-1 location, hook speaker, framing device). "Hold the copy, vary the skin" | Making Iterations, S |
+| 16 | Signed media URLs dead by the next day | Asset handling | Higgsfield/GetHookd URLs expire in about 24 h | Download every result into the project folder immediately; keep job ids in the manifest | B (GetHookd runs) |
+
+| 17 | `--draft true` rejected ("Unknown params: draft true") | CLI call | Boolean flags need the `=` form on this CLI | Pass `--draft=true`. Draft renders at 480×854 for a quarter of the 1080p price (45 vs 180 credits for 15 s) and takes just as long (37 min in a queue on 2026-09-30) | B |
+| 18 | `--draft_job_id` fails with "Unsupported validation rules" | Finalising a draft from the CLI | The CLI can't evaluate the schema rule that pairs draft_job_id with the draft | Finalise from the Higgsfield web app (open the draft job, upgrade it), or run a fresh 1080p render and accept a new take. Open question until the CLI catches up | B |
+
+| 19 | **Hungarian dialogue comes out as gibberish** even with a voice reference and the LANGUAGE line | First draft, 2026-09-30, `seedance_2_5` | Seedance's own speech generator doesn't know Hungarian. The audio reference fixed the timbre (the voice sounded like Antal) but not the words; whisper detected "hu" at 0.98 yet every word was mangled | **Never let Seedance invent Hungarian speech.** Generate the dialogue first with `seed_audio` (prompt = "in the exact voice of the reference audio… says this Hungarian sentence and nothing else: …", `--audio-references` = 15–30 s of the speaker alone, ≈0.4 credits per line), verify each line with a local whisper transcription, assemble a timed 15 s track with ffmpeg, then pass that track as Audio 1 and tell Seedance to lip-sync to it verbatim and generate no speech of its own (`prompts/seg1-take2.txt` in the Black Friday project is the template) | B |
+| 20 | Numbers in TTS lines get mangled ("25 százalékkal" → nonsense) | seed_audio | Digit reading in a language the model half-knows | Write numbers out in words in every TTS line („huszonöt százalékkal") and in the prompt | B |
+| 21 | TTS lines too slow for the slot (three lines = 19 s for a 15 s clip) | seed_audio, "unhurried" prompt | The pace word was taken literally | Ask for "natural conversational pace, not slow"; measure each line with ffprobe before building the track; if it still doesn't fit, lengthen the clip (draft credits scale with seconds) rather than rushing the older-audience delivery | B |
+| 22 | Shell eats Hungarian quote marks („ ") in `--prompt` | CLI | zsh quoting | Always write the prompt to a `.txt` and pass `"$(cat file)"`; never inline Hungarian quotes on the command line | B |
+| 23 | No way to verify the language by ear | Review | The agent can't listen | `pip install --user faster-whisper` (installed 2026-09-30); decode with ffmpeg to 16 kHz f32 mono and pass the numpy array (the bundled `av` decoder is version-mismatched). Model "small" is enough for a language check; use "medium" to judge pronunciation | B |
+
+## Open questions (fill in after the first brain run)
+
+- `--draft=true` works (see #17). Whether `--draft_job_id` upgrades the same take is unresolved on the CLI (see #18); check the web app.
+- Does the extension call honour `--duration` for the new material, and what's its practical max?
+- Do audio references work in `video_extension` mode as well as `omni_reference`? (Schema allows them; unverified in practice.)
+- Live per-call price on this account (`higgsfield generate cost`).
+- Whether Meta's AI-content label or the on-screen "AI-val készült" note changes delivery for this page.

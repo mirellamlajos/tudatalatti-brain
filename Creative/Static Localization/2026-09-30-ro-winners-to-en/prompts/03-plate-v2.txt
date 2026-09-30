@@ -1,0 +1,27 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (pale blue and peach sky, a dove flying above an open hand with glowing sparkles on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, black, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. The letters are not condensed or squeezed: normal width. Line 1 starts at the original left margin and ends at about 76% of the image width:
+  line 1: THE LAW OF ATTRACTION
+  line 2: DOESN’T WORK
+  All black.
+
+- Body paragraph under the headline (Montserrat Bold, black, sentence case, inside quotation marks), same left margin as the headline, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly five lines broken like this:
+  line 1: “If you only think about positive
+  line 2: things consciously, your life
+  line 3: won’t change. Change doesn’t
+  line 4: begin in the conscious mind,
+  line 5: but in the subconscious.”
+  All black. The text must not touch the dove.
+
+- Gold serrated seal, bottom right, same size, shape and position as the original. White condensed all-caps type on exactly three lines, each line centred horizontally, and the three-line block centred vertically in the seal:
+  line 1: GET IT
+  line 2: TODAY AT THE
+  line 3: BEST PRICE!
+
+CHANGE 2: Remove these things completely: the two red books and the small round red-and-gold plus sign between them. Fill the area where they were with the natural continuation of the background (the soft peach and cream sky). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

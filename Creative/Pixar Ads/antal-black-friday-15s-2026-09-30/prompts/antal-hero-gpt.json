@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-09-29T23:13:02.458512Z",
+    "display_name": "GPT Image 2.5",
+    "id": "da8ba404-6612-44fe-8934-623d6006b0bb",
+    "job_type": "gpt_image_2_5",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231302_da8ba404-6612-44fe-8934-623d6006b0bb_min.webp",
+    "params": {
+      "aspect_ratio": "3:4",
+      "height": 1168,
+      "medias": [
+        {
+          "data": {
+            "id": "05e196fa-e668-4d21-99c6-2bfd5eb72780",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/05e196fa-e668-4d21-99c6-2bfd5eb72780.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "flare",
+      "prompt": "Transform the man in the reference photo into an original 3D animated feature-film character. Stylised rounded proportions, big expressive eyes, soft subsurface skin, clean smooth surfaces, cinematic three-point lighting, warm colour grade. Keep his exact likeness: same face shape, same dark swept-back hair with a little grey at the temples, same calm warm half-smile, same black turtleneck, dark charcoal trousers. Dignified and recognisable, never a caricature. Full body, standing, relaxed, one hand loosely at his side, facing camera. Plain light-grey studio background, even soft light. Single character, no text, no logo, no watermark.",
+      "quality": "low",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "1k",
+      "width": 880
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231302_da8ba404-6612-44fe-8934-623d6006b0bb.png",
+    "status": "completed"
+  }
+]

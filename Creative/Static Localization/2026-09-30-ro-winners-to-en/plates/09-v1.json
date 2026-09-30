@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-09-30T10:58:37.5542Z",
+    "display_name": "Nano Banana Pro",
+    "id": "c9f0ae58-f7c0-48c0-9085-cd011a08f4ec",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_105837_c9f0ae58-f7c0-48c0-9085-cd011a08f4ec_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "1:1",
+      "batch_size": 1,
+      "height": 2048,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "bb7067e5-03cf-4aaa-956a-334d9aacdc82",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/bb7067e5-03cf-4aaa-956a-334d9aacdc82.png"
+        }
+      ],
+      "prompt": "Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a dark room with patterned wallpaper, a grey-haired man in a navy pinstripe suit and red tie resting his forehead on his hand, on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.\n\nCHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.\n\n- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline.\n  line 1: CAN’T CONTROL YOUR\n  line 2: NEGATIVE THOUGHTS?\n  The word \"NEGATIVE\" is red (the same red as in the original). Every other word and the question mark are white.\n\n- First body paragraph under the headline (Montserrat SemiBold, sentence case), same left margin as the headline, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly two lines broken like this:\n  line 1: Anxiety, fear and frustration will keep haunting\n  line 2: you if you rely on positive thinking alone.\n  The words \"on positive thinking alone.\" are gold (the same gold as in the original). Every other word is white.\n\n- Second body paragraph (Montserrat SemiBold, sentence case), under the first, same left margin, to the left of the man, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly four lines broken like this:\n  line 1: Real change can happen when\n  line 2: you erase the fears and\n  line 3: harmful images programmed\n  line 4: deep in your subconscious.\n  Lines 1 to 3 are white. Line 4 is gold.\n\n- Keep the gold BEST SELLER seal at the bottom right exactly as it is.\n\nCHANGE 2: Remove these things completely: the two red books, the small round red-and-gold plus sign between them, and the gold label \"OFERTĂ NOUĂ!\" above the smaller book. Fill the area where they were with the natural continuation of the background (the dark wallpaper and dark desk on the left; the man's suit jacket and sleeve continue where the smaller book overlapped him). Leave that whole area empty: no books, no objects, no shadows, no text.\n\nThe person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.\n\nEvery apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).\n\nDo not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.\n",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2048
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_105837_c9f0ae58-f7c0-48c0-9085-cd011a08f4ec.png",
+    "status": "completed"
+  }
+]

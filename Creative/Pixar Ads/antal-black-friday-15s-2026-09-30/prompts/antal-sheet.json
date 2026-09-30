@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-09-29T23:16:02.584224Z",
+    "display_name": "Nano Banana Pro",
+    "id": "46c0a376-6f8e-43d1-92c4-52b8526d5ada",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231602_46c0a376-6f8e-43d1-92c4-52b8526d5ada_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "16:9",
+      "batch_size": 1,
+      "height": 1536,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "54867e56-b3b0-4b9a-8c12-4219311db629",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/54867e56-b3b0-4b9a-8c12-4219311db629.png"
+        }
+      ],
+      "prompt": "Character reference sheet of the man in the reference image, identical face, hair and clothing in every panel: same face shape, same dark swept-back hair with a little grey at the temples, same black turtleneck, dark charcoal trousers, black shoes. Panels on one white sheet: front view full body, three-quarter view full body, side profile full body, back view full body; then three head-and-shoulders expressions: a level, slightly weary look at something off to the side; a small lift of the eyebrows and a warm half-smile; a calm nod with a half-smile to camera; then one clean close-up of the face, neutral. 3D animated feature-film look, smooth clean surfaces, soft subsurface skin, consistent even lighting, plain white background, panels evenly spaced, no labels, no text, no watermark.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231602_46c0a376-6f8e-43d1-92c4-52b8526d5ada.png",
+    "status": "completed"
+  }
+]

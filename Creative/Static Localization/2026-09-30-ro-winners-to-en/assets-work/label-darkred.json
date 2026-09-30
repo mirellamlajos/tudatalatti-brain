@@ -1,0 +1,33 @@
+[
+  {
+    "created_at": "2026-09-30T10:33:30.926996Z",
+    "display_name": "GPT Image 2.5",
+    "id": "061ebc99-1a31-415a-bc64-39dfe328a5e3",
+    "job_type": "gpt_image_2_5",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_103330_061ebc99-1a31-415a-bc64-39dfe328a5e3_min.webp",
+    "params": {
+      "aspect_ratio": "21:9",
+      "background": "transparent",
+      "height": 576,
+      "medias": [
+        {
+          "data": {
+            "id": "8248e4d3-1e67-4209-b89f-a902566e153c",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/8248e4d3-1e67-4209-b89f-a902566e153c.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "flare",
+      "prompt": "Reproduce the text in the attached image exactly: the words NEW OFFER! in the same tall condensed bold all-caps display typeface, the same letter shapes and spacing, the same dark red colour with the same subtle gradient to a darker red-brown at the bottom of the letters. Output ONLY the text on a fully transparent background. No background colour, no sky, no shadow, no glow, no outline, no frame, no other elements. The text is one line, centred, and fills about 85% of the image width. Crisp, sharp edges.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "1k",
+      "width": 1344
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_103330_061ebc99-1a31-415a-bc64-39dfe328a5e3.png",
+    "status": "completed"
+  }
+]

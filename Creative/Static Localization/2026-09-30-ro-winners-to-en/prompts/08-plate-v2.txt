@@ -1,0 +1,25 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a dark auditorium, a speaker in a light shirt seen from behind with his right arm stretched out, facing a blurred audience), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top, centred, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. The headline is NOT larger than the original: line 1 spans about 73% of the image width and line 2 about 43%, both centred, at the same height on the page as the original headline.
+  line 1: THE LAW OF ATTRACTION
+  line 2: DOESN’T WORK
+  Line 1 is white. Line 2 is red (the same red as the original second line).
+
+- Body paragraph under the headline (bold white, sentence case), centred, in exactly the same typeface, weight and size as the original text it replaces, every line centred, exactly four lines broken like this:
+  line 1: If you only think about positive things
+  line 2: consciously, your life won’t change.
+  line 3: Change doesn’t begin in the conscious mind,
+  line 4: but in the subconscious.
+  The word "subconscious." on line 4 is pale gold (the same gold as in the original). Every other word is white.
+
+- Keep the black-and-gold BEST SELLER seal at the bottom right exactly as it is.
+
+CHANGE 2: Remove these things completely: the two red books, the gold BEST SELLER ribbon on the larger book, and the small round red-and-gold plus sign between the books. Fill the area where they were with the natural continuation of the background (the dark blurred audience on the left; the speaker's shirt, belt and trousers continue where the smaller book covered his back). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+The person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

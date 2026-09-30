@@ -1,0 +1,66 @@
+{
+  "created_at": "2026-09-29T23:26:01.578772Z",
+  "display_name": "Seedance 2.5",
+  "id": "3c999b0a-5e0c-44a4-a8d7-0d2b81e69400",
+  "job_type": "seedance_2_5",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "9:16",
+    "bitrate_mode": "high",
+    "draft": true,
+    "draft_job_id": null,
+    "duration": 15,
+    "extension_mode": null,
+    "generate_audio": true,
+    "genre": "auto",
+    "height": 854,
+    "medias": [
+      {
+        "data": {
+          "id": "e8ca1f3b-bb24-4103-8163-78940a540c00",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/e8ca1f3b-bb24-4103-8163-78940a540c00_resize.jpg"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "99517d3c-bd8c-4482-8865-25df1ffa5498",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/99517d3c-bd8c-4482-8865-25df1ffa5498_resize.jpg"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "id": "e8a38f39-26ad-49ec-a0dc-91c93bec8c47",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/e8a38f39-26ad-49ec-a0dc-91c93bec8c47_resize.jpg"
+        },
+        "role": "image"
+      },
+      {
+        "data": {
+          "folder_id": null,
+          "id": "316cba9e-c3e0-4d41-8bb1-8a3f0d13f495",
+          "type": "audio_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/316cba9e-c3e0-4d41-8bb1-8a3f0d13f495.mp3"
+        },
+        "role": "audio"
+      }
+    ],
+    "model": "default",
+    "multi_prompt": [],
+    "multi_shot_mode": "custom",
+    "multi_shots": false,
+    "prompt": "LANGUAGE: every spoken line in this video is in Hungarian. No Mandarin, no English, no other language.\n\nSTYLE: 3D animated feature-film look, exactly matching the reference images. Stylised rounded character, smooth clean surfaces, cinematic lighting, shallow depth of field, warm grade. Not photorealistic, not live action. Vertical 9:16.\n\nREFERENCES:\nImage 1: Antal's character sheet. Antal looks exactly like Image 1 in every shot: same face, same dark swept-back hair with grey at the temples, same black turtleneck, same dark charcoal trousers.\nImage 2: the study. The scene is this room: the tall wooden bookshelf of plain worn paperbacks, the desk with the green lamp and the mug, warm late-afternoon light from the window on the left.\nImage 3: the blue book. The cover stays exactly as in Image 3, title and artwork unchanged.\nAudio 1: voice reference for Antal only. Antal speaks with exactly this voice, this pitch and this unhurried pace. Audio 1 is not a soundtrack.\n\nVOICE: Antal: male, low-mid pitch, unhurried, warm and dry, plain Hungarian, no radio polish. One consistent voice for the whole clip.\n\nSHOTS:\n0:00–0:05 — Medium shot, slow push in. Antal stands beside the bookshelf, taps two worn spines with one finger, then looks at the camera, calm and kind. Antal: „Elolvastad. Megértetted. Mégsem változott semmi.\"\n0:05–0:10 — Medium-close, static. He pulls the blue book (Image 3) from the shelf and holds it chest-high, cover square to camera. Antal: „Ezért írtam meg a második kötetet. Onnan indulunk, ahol elakadtál.\"\n0:10–0:15 — Close-up on the book cover, then tilt up to his face; he glances down toward the bottom of the frame and back up with a warm half-smile. Antal: „Hétfő éjfélig 25 százalékkal olcsóbb. Kattints a linkre itt lent, és olvass bele.\"\n\nDO NOT RENDER: on-screen text, subtitles, captions, logos, watermarks, extra characters, wardrobe changes, readable book titles on the shelf.\n\nAUDIO: dialogue as written, natural quiet room tone, no music.",
+    "prompt_language": "en",
+    "reference_elements": [],
+    "resolution": "480p",
+    "speedramp": "auto",
+    "width": 480
+  },
+  "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_232601_3c999b0a-5e0c-44a4-a8d7-0d2b81e69400.mp4",
+  "status": "completed",
+  "thumbnail_url": "https://cdn.higgsfield.ai/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_232601_3c999b0a-5e0c-44a4-a8d7-0d2b81e69400_thumbnail.webp"
+}

@@ -1,0 +1,31 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a bright blurred office, a man in a white shirt and blue tie pinching the bridge of his nose with his eyes closed, on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. Keep the original's wide letter-spacing for this headline.
+  line 1: 97% OF SELF-HELP
+  line 2: METHODS FAIL
+  Line 1 is red (the same red as the original). Line 2 is black.
+
+- First body paragraph under the headline (bold black, sentence case), same left margin as the headline, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly three lines broken like this:
+  line 1: Why? Because they try to get you to change just
+  line 2: by swapping your conscious thoughts and
+  line 3: using willpower.
+  The words "conscious" and "willpower" are gold (the same gold-brown as in the original). Every other word is black.
+
+- Second body paragraph (bold black, sentence case), under the first, same left margin, to the left of the man's head, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly four lines broken like this:
+  line 1: That’s proven not to be enough.
+  line 2: The answer isn’t in the
+  line 3: conscious mind, but in the
+  line 4: subconscious.
+  The word "subconscious" on line 4 is gold. Every other word is black, including the full stop.
+
+- Keep the gold BEST SELLER shield at the bottom right exactly as it is.
+
+CHANGE 2: Remove these things completely: the two red books, the gold BEST SELLER ribbon on the larger book, the small round red-and-gold plus sign between the books, and the gold ticket-shaped label "OFERTĂ NOUĂ!". Fill the area where they were with the natural continuation of the background (the bright blurred office on the left; the man's white shirt, his hand holding glasses and the laptop continue where the smaller book overlapped them). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+The person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

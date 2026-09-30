@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-09-29T23:16:43.264729Z",
+    "display_name": "Nano Banana Pro",
+    "id": "8fb7253b-24ee-406a-baed-5f416badf01f",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231643_8fb7253b-24ee-406a-baed-5f416badf01f_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "9:16",
+      "batch_size": 1,
+      "height": 2752,
+      "input_image": null,
+      "input_images": [],
+      "prompt": "Empty home study, no people, no text. 3D animated feature-film look: stylised rounded forms, smooth clean surfaces, soft global illumination, painterly simplified textures, not photorealistic. One tall dark-wood bookshelf packed with worn paperbacks, spines plain with no readable titles. A desk edge in the foreground with a green-shaded brass desk lamp switched on and a simple ceramic mug. Late afternoon: warm lamp glow, soft daylight from a window on the left. Camera at eye level, slightly wide, soft depth of field. Palette: warm brown wood, deep shadows, golden lamp light. Vertical composition with open floor space in front of the shelf where a person could stand.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 1536
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231643_8fb7253b-24ee-406a-baed-5f416badf01f.png",
+    "status": "completed"
+  }
+]

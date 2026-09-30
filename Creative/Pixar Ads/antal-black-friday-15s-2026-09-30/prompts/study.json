@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2026-09-29T23:14:06.598579Z",
+    "display_name": "GPT Image 2.5",
+    "id": "f4e86857-3b94-4502-98bc-b17161e98c46",
+    "job_type": "gpt_image_2_5",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231406_f4e86857-3b94-4502-98bc-b17161e98c46_min.webp",
+    "params": {
+      "aspect_ratio": "9:16",
+      "height": 1344,
+      "medias": [],
+      "model": "flare",
+      "prompt": "Empty home study, no people, no text. One tall dark-wood bookshelf packed with worn, well-read paperbacks, spines plain and unreadable, no titles, no logos. A desk edge in the foreground with a green-shaded brass desk lamp switched on and a ceramic mug. Late afternoon: warm lamp glow, soft daylight from a window on the left. Camera at eye level, slightly wide, soft depth of field. Palette: warm brown wood, deep shadows, golden lamp light. 3D animated feature-film look, stylised but grounded, soft global illumination, clean surfaces, everyday Hungarian home realism in the details. Vertical composition.",
+      "quality": "low",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "1k",
+      "width": 752
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231406_f4e86857-3b94-4502-98bc-b17161e98c46.png",
+    "status": "completed"
+  }
+]

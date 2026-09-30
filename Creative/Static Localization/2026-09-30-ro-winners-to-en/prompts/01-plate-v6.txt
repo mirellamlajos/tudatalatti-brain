@@ -1,0 +1,27 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (sunset sky, clouds, the translucent silhouette of a woman with her arm raised on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. Black, all caps, two lines, no full stop at the end. Same cap height as the original headline. Line 1 starts at the original left margin and ends at about 73% of the image width:
+  line 1: THE LAW OF ATTRACTION
+  line 2: DOESN’T WORK
+
+- Body paragraph under the headline, set in Montserrat Bold as in the original, black, sentence case, left-aligned, same left margin as the headline, exactly six lines broken like this:
+  line 1: You don’t need to ask the
+  line 2: outside world for abundance,
+  line 3: health or change. All of these
+  line 4: are created by your own
+  line 5: subconscious, with the help
+  line 6: of your inner energy.
+  The three words "your own subconscious" are red (the same bright red as the red words in the original). Every other word is black.
+
+- Round badge, bottom right: a black circle with a metallic gold ring, same size and position as the original badge. White condensed all-caps type on exactly three lines, each line centred horizontally, and the three-line block centred vertically in the circle with equal space above and below and equal space left and right:
+  line 1: GET IT
+  line 2: TODAY AT THE
+  line 3: BEST PRICE!
+
+CHANGE 2: Remove these three things completely: the two red books, the small round red-and-gold plus sign between them, and the dark red label "OFERTĂ NOUĂ!" above the smaller book. Fill the area where they were with the natural continuation of the background (the warm glowing sunset sky above, the dark golden field at the bottom edge). Leave that whole lower-left and lower-middle area empty: no books, no objects, no shadows, no text.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

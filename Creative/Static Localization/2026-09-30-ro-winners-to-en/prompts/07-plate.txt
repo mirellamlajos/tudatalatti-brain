@@ -1,0 +1,26 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a white background fading into a close-up of a man pinching the bridge of his nose, overlaid with faded dollar banknotes), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline.
+  line 1: THE LAW OF ATTRACTION
+  line 2: DOESN’T WORK
+  Line 1 is red (the same red as in the original). Line 2 is black.
+
+- Body paragraph under the headline (bold black, sentence case, inside quotation marks), same left margin as the headline, to the left of the man's face, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly seven lines broken like this:
+  line 1: “If you only think about
+  line 2: positive things
+  line 3: consciously, your life
+  line 4: won’t change. Change
+  line 5: doesn’t begin in the
+  line 6: conscious mind, but in
+  line 7: the subconscious.”
+  Red words (same red as in the original): "consciously" on line 3, and "subconscious.”" on line 7. Every other word is black.
+
+CHANGE 2: Remove these things completely: the two red books, the gold BEST SELLER ribbon on the larger book, and the small round red-and-gold plus sign between the books. Fill the area where they were with the natural continuation of the background (the white background and the faded banknotes continue where the books were). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+The person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

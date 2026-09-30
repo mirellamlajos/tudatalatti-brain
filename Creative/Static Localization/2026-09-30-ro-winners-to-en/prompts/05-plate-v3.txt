@@ -1,0 +1,37 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a soft white background, a smiling woman with long auburn hair and closed eyes holding a grey mug, on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top, centred, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. The headline is NOT larger than the original: line 1 spans about 37% of the image width and line 2 about 44%, both centred.
+  line 1: REAL CHANGE
+  line 2: BEGINS WITHIN
+  Line 1 is black. Line 2 is red (the same red as the original second line).
+
+- Testimonial text on the left (bold, sentence case, inside quotation marks), in the left column, to the left of the woman, in exactly the same typeface, weight and size as the original text it replaces, every line centred in the column, exactly thirteen lines. Copy these thirteen lines character for character, one after another, with no word repeated and no word changed:
+  line 1: “Anthony’s book showed
+  line 2: me why I hadn’t been
+  line 3: successful for years
+  line 4: with motivational
+  line 5: methods, and that the
+  line 6: fault wasn’t in me.
+  line 7: It gave me a key that
+  line 8: opened the door to a
+  line 9: life that’s not just
+  line 10: happier but more
+  line 11: successful too.
+  line 12: I’ll be grateful
+  line 13: forever.”
+  Red words (same red as in the original): "why" on line 2; "the" at the end of line 5 and all of line 6 ("fault wasn’t in me."); "happier" on line 10; "more" on line 10 and "successful" on line 11. Every other word is black.
+
+- Keep the five gold stars under the testimonial exactly as they are.
+
+- Attribution line under the stars, black, bold, centred, same size as the original attribution:
+  Mary K. (47), Manchester
+
+CHANGE 2: Remove these things completely: the two red books, the gold BEST SELLER ribbon on the larger book, and the small round red-and-gold plus sign between the books. Fill the area where they were with the natural continuation of the background (the woman's auburn hair, her cream knitted scarf and jumper, and the soft white background continue where the books were). Leave that whole area empty: no books, no objects, no shadows, no text.
+
+The person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.
+
+Every apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

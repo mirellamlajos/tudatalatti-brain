@@ -1,0 +1,19 @@
+LANGUAGE: the only speech in this video is the Hungarian dialogue in Audio 1. Do not generate any speech of your own. No Mandarin, no English, no invented words.
+
+STYLE: 3D animated feature-film look, exactly matching the reference images. Stylised rounded character, smooth clean surfaces, cinematic lighting, shallow depth of field, warm grade. Not photorealistic, not live action. Vertical 9:16.
+
+REFERENCES:
+Image 1: Antal's character sheet. Antal looks exactly like Image 1 in every shot: same face, same dark swept-back hair with grey at the temples, same black turtleneck, same dark charcoal trousers.
+Image 2: the study. The scene is this room: the tall wooden bookshelf of plain worn paperbacks, the desk with the green lamp and the mug, warm late-afternoon light from the window on the left.
+Image 3: the blue book. The cover stays exactly as in Image 3, title and artwork unchanged.
+Audio 1: Antal's complete dialogue for the whole clip, in Hungarian, already recorded in his voice, with pauses between the three lines. Use Audio 1 as the dialogue track verbatim. Antal lip-syncs precisely to Audio 1: his mouth moves only while Audio 1 has speech and is closed in the pauses.
+
+SHOTS (timed to Audio 1; the clip is 16 seconds; Audio 1 is one continuous take with the three lines at 0:00.5, 0:05.1 and 0:09.7):
+0:00–0:05 — Medium shot, slow push in. Antal stands beside the bookshelf, taps two worn spines with one finger, then looks at the camera, calm and kind, speaking the first line from Audio 1: „Elolvastad. Megértetted. Mégsem változott semmi."
+0:05–0:09.7 — Medium-close, static. He pulls the blue book (Image 3) from the shelf and holds it chest-high, cover square to camera, speaking the second line from Audio 1: „Ezért írtam meg a második kötetet. Onnan indulunk, ahol elakadtál."
+0:09.7–0:14.7 — Start close on the book cover, then tilt up to his face; he glances down toward the bottom of the frame and back up with a warm half-smile, speaking the third line from Audio 1: „Hétfőig huszonöt százalékkal olcsóbb. Kattints a linkre itt lent, és olvass bele."
+0:14.7–0:16 — He holds the half-smile, book still in hand, silent.
+
+DO NOT RENDER: on-screen text, subtitles, captions, logos, watermarks, extra characters, wardrobe changes, readable book titles on the shelf.
+
+AUDIO: Audio 1 verbatim as the dialogue, natural quiet room tone under it, no music, no extra voices.

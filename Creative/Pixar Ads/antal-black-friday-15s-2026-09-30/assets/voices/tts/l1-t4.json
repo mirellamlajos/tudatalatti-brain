@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-09-30T00:32:36.284847Z",
+    "display_name": "Seed Audio 1.0",
+    "id": "232f27d8-ec7e-40ca-b4fa-245782f2fa2a",
+    "job_type": "seed_audio",
+    "min_result_url": null,
+    "params": {
+      "batch_size": 1,
+      "expression_intensity": 5,
+      "format": "mp3",
+      "loudness_rate": 0,
+      "medias": [
+        {
+          "data": {
+            "id": "e811a379-5d6e-47b1-b3bd-451d457f6267",
+            "type": "audio_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/e811a379-5d6e-47b1-b3bd-451d457f6267.mp3"
+          },
+          "role": "audio"
+        }
+      ],
+      "mood": 0,
+      "pitch_rate": 0,
+      "prompt": "A Hungarian man speaking in the exact voice of the reference audio: calm, warm, natural conversational pace, clear articulation of every syllable, especially the endings of words. He says these three short Hungarian sentences and nothing else, with a small pause after each: Elolvastad. Megértetted. Mégsem változott semmi.",
+      "sample_rate": 44100,
+      "speech_rate": 0
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_003236_232f27d8-ec7e-40ca-b4fa-245782f2fa2a.mp3",
+    "status": "completed"
+  }
+]

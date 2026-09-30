@@ -1,0 +1,46 @@
+{
+  "plate": "../plates/10-v4.png",
+  "out": "../final/10-en.png",
+  "size": 2048,
+  "assets": "../../../../Brand/Product Images/EN",
+  "items": [
+    {
+      "id": "b1",
+      "file": "book1-bestseller-badge.png",
+      "x": 40,
+      "y": 935,
+      "h": 842
+    },
+    {
+      "id": "b2",
+      "file": "book2-new-badge.png",
+      "x": 371,
+      "y": 1135,
+      "h": 848
+    },
+    {
+      "id": "g",
+      "file": "guide.png",
+      "x": 996,
+      "y": 1473,
+      "h": 505
+    },
+    {
+      "id": "plus",
+      "file": "../plus-red-gold.png",
+      "h": 77,
+      "between": [
+        "b2",
+        "g"
+      ],
+      "cy_of": "g"
+    },
+    {
+      "id": "label",
+      "file": "labels/new-offer-darkred.png",
+      "w": 593,
+      "x": 683,
+      "y": 1049
+    }
+  ]
+}

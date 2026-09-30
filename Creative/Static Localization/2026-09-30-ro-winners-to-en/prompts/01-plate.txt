@@ -1,0 +1,23 @@
+Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (sunset sky, clouds, the translucent silhouette of a woman with her arm raised on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.
+
+CHANGE 1: Replace every piece of Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.
+
+- Headline, top left, heavy black geometric sans-serif, all caps, two lines:
+  line 1: THE LAW OF ATTRACTION
+  line 2: ISN'T WHAT IT SEEMS.
+
+- Body paragraph under the headline, bold black sans-serif, sentence case, left-aligned, about six lines, same left margin as the headline:
+  You don't need to ask the outside world for abundance, health or change. All of these are created by your own subconscious, with the help of your inner energy.
+  The three words "your own subconscious" are red (the same bright red as the red words in the original). Every other word is black.
+
+- Label in the lower middle, dark red condensed all-caps display type, same position as the original label:
+  NEW OFFER!
+
+- Round badge, bottom right: a black circle with a metallic gold ring, white condensed all-caps type, centred, same size and position as the original badge:
+  GET IT TODAY
+  AT THE BEST
+  PRICE!
+
+CHANGE 2: Remove the two red books and the small round red-and-gold plus sign between them completely. Fill the area where they were with the natural continuation of the background (the warm glowing sunset sky above, the dark golden field at the bottom edge). Leave that whole lower-left area empty: no books, no objects, no shadows, no text.
+
+Do not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.

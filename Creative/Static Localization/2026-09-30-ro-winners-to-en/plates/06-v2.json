@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-09-30T11:03:21.970499Z",
+    "display_name": "Nano Banana Pro",
+    "id": "b2eac5d8-a6d6-47d9-968a-7ab80db2f639",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_110321_b2eac5d8-a6d6-47d9-968a-7ab80db2f639_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "1:1",
+      "batch_size": 1,
+      "height": 2048,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "5b0c407a-617e-4925-b129-0cfb64f0c40a",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/5b0c407a-617e-4925-b129-0cfb64f0c40a.png"
+        }
+      ],
+      "prompt": "Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (a bright blurred office, a man in a white shirt and blue tie pinching the bridge of his nose with his eyes closed, on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.\n\nCHANGE 1: Replace the Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.\n\n- Headline, top left, set in League Spartan Bold: the same compact geometric sans-serif as the original headline, with the same letter proportions, the same stroke weight and the same tight letter-spacing. Do not use a wider typeface and do not widen the letter-spacing. All caps, two lines, no full stop at the end. Same cap height as the original headline. Keep the original's wide letter-spacing for this headline.\n  line 1: 97% OF SELF-HELP\n  line 2: METHODS FAIL\n  Line 1 is red (the same red as the original). Line 2 is black.\n\n- First body paragraph under the headline (bold black, sentence case), same left margin as the headline, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly three lines broken like this:\n  line 1: Why? Because they try to get you to change just\n  line 2: by swapping your conscious thoughts and\n  line 3: using willpower.\n  The words \"conscious\" and \"willpower\" are gold (the same gold-brown as in the original). Every other word is black.\n\n- Second body paragraph (bold black, sentence case), under the first, same left margin, to the left of the man's head, in exactly the same typeface, weight and size as the original text it replaces, left-aligned, exactly four lines broken like this:\n  line 1: That’s proven not to be\n  line 2: enough. The answer isn’t\n  line 3: in the conscious mind,\n  line 4: but in the subconscious.\n  The word \"subconscious\" on line 4 is gold. Every other word is black, including the full stop. No line of this paragraph touches the man's hair.\n\n- Keep the gold BEST SELLER shield at the bottom right exactly as it is.\n\nCHANGE 2: Remove these things completely: the two red books, the gold BEST SELLER ribbon on the larger book, the small round red-and-gold plus sign between the books, and the gold ticket-shaped label \"OFERTĂ NOUĂ!\". Fill the area where they were with the natural continuation of the background (the bright blurred office on the left; the man's white shirt, his hand holding glasses and the laptop continue where the smaller book overlapped them). Leave that whole area empty: no books, no objects, no shadows, no text.\n\nThe person in the photo stays exactly as in the original: same face, hair, expression, hands and clothing. Do not retouch or regenerate the person.\n\nEvery apostrophe in the image is the same curved typographic apostrophe (’). Quotation marks are curved (“ and ”).\n\nDo not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.\n",
+      "resolution": "2k",
+      "surface": null,
+      "width": 2048
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_110321_b2eac5d8-a6d6-47d9-968a-7ab80db2f639.png",
+    "status": "completed"
+  }
+]

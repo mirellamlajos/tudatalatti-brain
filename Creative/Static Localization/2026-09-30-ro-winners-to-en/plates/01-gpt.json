@@ -1,0 +1,32 @@
+[
+  {
+    "created_at": "2026-09-30T10:07:14.042757Z",
+    "display_name": "GPT Image 2.5",
+    "id": "bd2c6bf8-fcb3-4e22-ace5-aeb46cbad79d",
+    "job_type": "gpt_image_2_5",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_100714_bd2c6bf8-fcb3-4e22-ace5-aeb46cbad79d_min.webp",
+    "params": {
+      "aspect_ratio": "1:1",
+      "height": 2048,
+      "medias": [
+        {
+          "data": {
+            "id": "4684c047-af4d-457d-80dc-990cfe5190db",
+            "type": "media_input",
+            "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/4684c047-af4d-457d-80dc-990cfe5190db.png"
+          },
+          "role": "image"
+        }
+      ],
+      "model": "flare",
+      "prompt": "Edit the attached image. It is a square 1:1 Facebook ad for a book. Reproduce it EXACTLY: the same background photo (sunset sky, clouds, the translucent silhouette of a woman with her arm raised on the right), the same colours, the same layout, the same typefaces, the same text sizes and positions. Make only the two changes below.\n\nCHANGE 1: Replace every piece of Romanian text with the English text given here. Each English text sits in the same place, in the same typeface, weight, colour and size as the text it replaces. Spell every word exactly as written, nothing added, nothing left out.\n\n- Headline, top left, heavy black geometric sans-serif, all caps, two lines:\n  line 1: THE LAW OF ATTRACTION\n  line 2: ISN'T WHAT IT SEEMS.\n\n- Body paragraph under the headline, bold black sans-serif, sentence case, left-aligned, about six lines, same left margin as the headline:\n  You don't need to ask the outside world for abundance, health or change. All of these are created by your own subconscious, with the help of your inner energy.\n  The three words \"your own subconscious\" are red (the same bright red as the red words in the original). Every other word is black.\n\n- Label in the lower middle, dark red condensed all-caps display type, same position as the original label:\n  NEW OFFER!\n\n- Round badge, bottom right: a black circle with a metallic gold ring, white condensed all-caps type, centred, same size and position as the original badge:\n  GET IT TODAY\n  AT THE BEST\n  PRICE!\n\nCHANGE 2: Remove the two red books and the small round red-and-gold plus sign between them completely. Fill the area where they were with the natural continuation of the background (the warm glowing sunset sky above, the dark golden field at the bottom edge). Leave that whole lower-left area empty: no books, no objects, no shadows, no text.\n\nDo not add anything else: no new elements, no logos, no watermark, no border. No Romanian words may remain anywhere in the image.",
+      "quality": "high",
+      "reference_elements": [],
+      "remove_bg": false,
+      "resolution": "2k",
+      "width": 2048
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260930_100714_bd2c6bf8-fcb3-4e22-ace5-aeb46cbad79d.png",
+    "status": "completed"
+  }
+]

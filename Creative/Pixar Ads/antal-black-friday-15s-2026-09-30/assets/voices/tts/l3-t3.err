@@ -1,0 +1,2 @@
+Error: Unknown params: speech_rate 10
+Hint: Run: hf model get seed_audio

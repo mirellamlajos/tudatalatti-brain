@@ -1,0 +1,29 @@
+[
+  {
+    "created_at": "2026-09-29T23:17:34.616897Z",
+    "display_name": "Nano Banana Pro",
+    "id": "68d68da3-ca6e-49a7-8d4b-8b3130ad8397",
+    "job_type": "nano_banana_pro",
+    "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231734_68d68da3-ca6e-49a7-8d4b-8b3130ad8397_min.webp",
+    "params": {
+      "application": null,
+      "aspect_ratio": "3:4",
+      "batch_size": 1,
+      "height": 2400,
+      "input_image": null,
+      "input_images": [
+        {
+          "id": "6d09c80c-aeec-4d9a-830d-f64860463ca7",
+          "type": "media_input",
+          "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/6d09c80c-aeec-4d9a-830d-f64860463ca7.png"
+        }
+      ],
+      "prompt": "The book from the reference image, cover matched exactly: same title text, same author name, same large numeral 2, same blue vortex artwork, same layout and colours. Render it as a prop in a 3D animated feature-film look: smooth clean surfaces, slightly softened edges, simplified page-block texture, standing upright at a slight three-quarter angle on a plain neutral grey background, soft studio light. No extra text, no changes to the cover art, no white outline, no glow.",
+      "resolution": "2k",
+      "surface": null,
+      "width": 1792
+    },
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_306gmcizip1GSRAnCh9mIBziUbn/hf_20260929_231734_68d68da3-ca6e-49a7-8d4b-8b3130ad8397.png",
+    "status": "completed"
+  }
+]
